@@ -1,6 +1,6 @@
 programa
 {
-	//Davyd e Vitor de Amorin 
+	//Davyd, Felipe e Vitor de Amorin 
 	
 	inclua biblioteca Util --> u
 	inclua biblioteca Texto--> t
